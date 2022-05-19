@@ -9,12 +9,20 @@ html {
 }
 
 body {
+<<<<<<< HEAD
   background: white;
+=======
+  background: #c1bdba;
+>>>>>>> 5407e70fc53bff2517e886e2249f84344caacee2
   font-family: "Titillium Web", sans-serif;
 }
 
 /* Preloader */
+<<<<<<< HEAD
 /* #preloader {
+=======
+#preloader {
+>>>>>>> 5407e70fc53bff2517e886e2249f84344caacee2
   overflow: hidden;
   background: #f33f3f;
   left: 0;
@@ -24,7 +32,11 @@ body {
   position: fixed;
   z-index: 9999999;
   color: #fff;
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 5407e70fc53bff2517e886e2249f84344caacee2
 
 #preloader .jumper {
   left: 0;
@@ -364,6 +376,7 @@ textarea {
   margin-top: -20px;
   text-align: right;
 }
+<<<<<<< HEAD
 
 .form{
   margin-top: 10%;
@@ -372,3 +385,5 @@ textarea {
   height: 20px;
   
 }
+=======
+>>>>>>> 5407e70fc53bff2517e886e2249f84344caacee2
